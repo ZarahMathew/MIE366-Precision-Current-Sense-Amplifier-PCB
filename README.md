@@ -4,7 +4,7 @@ This project focuses on the design, build, and testing of a a high precision cur
 
 Please look at the documents to see the PCB development process in the following order (Below gives a brief description of each skill demonstrated in the documentation):
 <br><br>
-**Part 1: [MIE366_DesignAssignment1_Designing_the_circuit](https://github.com/ZarahMathew/MIE366_DesignAssignment1_Designing_the_Circuit)**: 
+**Part 1: [MIE366_DesignAssignment1_Designing_the_circuit]([https://github.com/ZarahMathew/MIE366_DesignAssignment1_Designing_the_Circuit](https://github.com/ZarahMathew/MIE366-Precision-Current-Sense-Amplifier-PCB/blob/main/MIE366_DesignAssignment1_Designing_the_circuit.pdf))**: 
 <br>
 - Studied engineering specifications and researched different types of potential building-block circuits to find an optimal candidate design for the current sense amplifier.
 - Designed and simulated our best two designs on LTSpice, calculating the total product gain, voltage sense, and voltage out against varying load currents from 0A - 3.5A. 
