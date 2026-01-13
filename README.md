@@ -2,10 +2,9 @@
 
 This project focuses on the design, build, and testing of a a high precision current sense amplifier PCB for accurate measurements of small currents in the presence of electrical noise. It needs to sense load current using a low-side 0.1 Ω sense resistor and convert it into a voltage signal suitable for a microcontroller ADC to read. As voltage across the sense resistor is very small (0-0.35 V for 0-3.5A respectively), the signal must be conditioned before it can be accurately read. The system integrates analog circuit design on LTSpice, PCB layout design on Eagle, and soldering and hardware documentation. The final system performs successfuly, achieving stable output current of 3.5A with minimal ripple.
 
-<br><br>
 Please look at the documents to see the PCB development process in the following order (Below gives a brief description of each skill demonstrated in the documentation):
 <br><br>
-**Part 1: MIE366_DesignAssignment1_Designing_the_circuit**: 
+**Part 1: [MIE366_DesignAssignment1_Designing_the_circuit](https://github.com/ZarahMathew/MIE366_DesignAssignment1_Designing_the_Circuit)**: 
 <br>
 - Studied engineering specifications and researched different types of potential building-block circuits to find an optimal candidate design for the current sense amplifier.
 - Designed and simulated our best two designs on LTSpice, calculating the total product gain, voltage sense, and voltage out against varying load currents from 0A - 3.5A. 
